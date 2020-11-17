@@ -2,4 +2,4 @@
 CUDA final project
 
 本项目使用cmake进行环境配置
-需要安装cuda
+需要安装cuda、glut和openmp
